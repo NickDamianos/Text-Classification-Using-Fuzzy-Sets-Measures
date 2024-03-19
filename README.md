@@ -1,6 +1,12 @@
 ﻿# Text-Classification-Using-Fuzzy-Sets-Measures
 
 
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![GitHub issues](https://img.shields.io/github/issues/NickDamianos/Text-Classification-Using-Fuzzy-Sets-Measures)](https://github.com/NickDamianos/Text-Classification-Using-Fuzzy-Sets-Measures/issues)
+[![GitHub stars](https://img.shields.io/github/stars/NickDamianos/Text-Classification-Using-Fuzzy-Sets-Measures)](https://github.com/NickDamianos/Text-Classification-Using-Fuzzy-Sets-Measures/stargazers)
+
+
+
 A very important task of Natural Language Processing is text categorization (or text
 classification), which aims to automatically classify a document into categories. This kind of task
 includes numerous applications, such as sentiment analysis, language or intent detection, heavily
