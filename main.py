@@ -1,4 +1,8 @@
+'''
+Created on Tue Aug 11 15:37:35 2020
+
 @author: nikolaos damianos
+'''
 #######################################################################################################################
 from sklearn.feature_extraction.text import CountVectorizer
 #from sklearn.metrics import accuracy_score, precision_score, recall_score
