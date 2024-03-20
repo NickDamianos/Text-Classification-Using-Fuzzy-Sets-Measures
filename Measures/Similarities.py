@@ -3,6 +3,7 @@ import numpy as np
 '''
 	Similarity measures for (intuitionistic) fuzzy sets
 	========================================================================
+ 	@author: nikolaos damianos
 	© Visual Computing Group, HUMAIN-Lab, Eastern Macedonia and Thrace Institute of Technology
 	01-Dec-2017 - Release
 '''
